@@ -1,7 +1,8 @@
 # Shelf.nu
 
 <a href="https://www.shelf.nu/" target="_blank">
-<img width="100%" src="https://cdn.discordapp.com/attachments/1143882281069592658/1143949082017153044/Frame_102.jpg" />
+<img width="100%" src="https://github.com/Shelf-nu/shelf.nu/raw/main/public/static/images/readme-cover.jpg" />
+    
 </a>
 <h4 align="center">
 ✨ Open Source Asset Management Infrastructure for everyone. ✨
