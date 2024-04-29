@@ -9,12 +9,12 @@
 </h4>
 <p align="center" >
 Shelf 🏷️ Asset Management infrastructure for absolutely everyone (open source).<br/> <br/>
-Shelf is a simple and visual asset management and location tracking system that allows people to track their physical assets with ease.
+Shelf is a simple and visual asset management and location tracking software that allows teams to categorize, manage and track their physical assets with ease.
 </p>
 
 ## Core Features and Benefits 💫
 
-With Shelf, you can take a picture of any item you own and store it in your own database. From there, you can generate a printable code (QR) that you can tag onto the item, making it easy to identify and locate in the future. Shelf has a handy code printing area where you can add as many QR codes as you can on an A4 sticker paper sheet. You can also add detailed information about the item, including its purchase date, purchase price, warranty information, and more.
+With Shelf, you can take a picture of any item you own and store it in your own database. From there, you can generate a printable code (QR) that you can tag onto the item, making it easy to identify and locate in the future. Add detailed information about the item, including its purchase date, purchase price, warranty information, and more. We have no strong opinions on what an asset is - you define your own custom field logic and define rules for assets entering your database.
 
 <div align="left">
 
@@ -33,12 +33,12 @@ With Shelf, you can take a picture of any item you own and store it in your own 
 
 ### Once your assets are online, you will be able to:
 
-- Generate printable PDFs sheets from assets you select, so you can stick them onto anything
+- Generate QR asset labels for your equipment
 - Check the last known location of your assets
 - Instant Search through your assets database
-- Use 'lost mode' for emergencies (offer a bounty for a return of an item)
-- Get notified of assets you are not using
-- Share your asset vault with other users
+- Check what assets are in the custody of team members
+- Find out which assets are in each location you manage
+- Manage shared equipment reservations through bookings
 
 ### Use Shelf alone, or as a team. And, these questions will be a thing of the past.
 
